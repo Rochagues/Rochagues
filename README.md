@@ -1,4 +1,4 @@
-## __*Sou o Rafael, mas me chama de Rochagues*__ 😉  <img src="https://komarev.com/ghpvc/?username=Rochagues&color=orange" alt="Rochagues" /> 
+## __*Sou o Rafael, mas me chama de Rochagues*__ 😉 
 
 
 <div>
