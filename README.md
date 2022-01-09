@@ -7,7 +7,7 @@
   <a href="https://account.xbox.com/pt-BR/Profile?xr=mebarnav" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a> 
  </div>
  
- <div style="display: inline_block"><br>
+ /*<div style="display: inline_block"><br>
   <a href="https://github.com/Rochagues">
   <img align="center" alt="Rochagues-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rochagues-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,7 +17,7 @@
   <img align="center" alt="Rochagues-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rochagues-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     
-</div>
+</div>*/
   
 ##
 <div>
