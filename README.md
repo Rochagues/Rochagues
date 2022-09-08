@@ -13,5 +13,3 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rochagues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
    <img height="180em" align="right" alt="Rochagues" src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif">
 </div>
-
-![Snake animation](https://github.com/Rochagues/Rochagues/blob/output/github-contribution-grid-snake.svg)
