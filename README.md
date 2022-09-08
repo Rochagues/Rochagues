@@ -1,4 +1,4 @@
-## __*Eae, me chamo Rafael, seja bem-vindo ao meu perfil*__ 😉 
+## __*Olá, me chamo Rafael, seja bem-vindo ao meu perfil*__ 😉 
 
 <div> 
   <a href="https://www.instagram.com/rochagues/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
