@@ -1,6 +1,6 @@
 ## Hello, I'm Rafael, welcome! <img src="https://media.tenor.com/63kkyhEv-68AAAAi/cat-kitty.gif" width="45"/>
 
-<img src="https://static.wixstatic.com/media/b6f029_7e0b3165d4d9458ca93f7d9be9cd8e95~mv2.gif" width="45%" align="right"/>
+<img src="https://static.wixstatic.com/media/b6f029_7e0b3165d4d9458ca93f7d9be9cd8e95~mv2.gif" width="50%" align="right"/>
 
 
 I'm 22 years old, from SP/Brazil. A passionate fullstack developer. Currently studying, GTI, at FATEC Campinas.
@@ -17,6 +17,6 @@ I'm 22 years old, from SP/Brazil. A passionate fullstack developer. Currently st
 ##
 <div>
   <a href="https://github.com/Rochagues">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rochagues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
-   <img height="180em" align="right" alt="Rochagues" src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rochagues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
+   <img height="150em" align="right" alt="Rochagues" src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif">
 </div>
