@@ -17,6 +17,5 @@ I'm 22 years old, from SP/Brazil. A passionate fullstack developer. Currently st
 ##
 <div>
   <a href="https://github.com/Rochagues">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rochagues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
-   <img height="150em" align="right" alt="Rochagues" src="https://c.tenor.com/i3pR9emucLgAAAAC/what-dog.gif">
+   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rochagues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
 </div>
