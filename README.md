@@ -1,6 +1,6 @@
 ## Hello, I'm Rafael, welcome! <img src="https://media.tenor.com/63kkyhEv-68AAAAi/cat-kitty.gif" width="45"/>
 
-<img src="https://static.wixstatic.com/media/b6f029_7e0b3165d4d9458ca93f7d9be9cd8e95~mv2.gif" width="50%" align="right"/>
+<img src="https://static.wixstatic.com/media/b6f029_7e0b3165d4d9458ca93f7d9be9cd8e95~mv2.gif" width="50%" align="right" margin="3em"/>
 
 
 I'm 22 years old, from SP/Brazil. A passionate fullstack developer. Currently studying, GTI, at FATEC Campinas.
