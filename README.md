@@ -1,4 +1,11 @@
-## __*Olá, me chamo Rafael, seja bem-vindo ao meu perfil*__ 😉 
+## Hello, I'm Rafael, welcome! <img src="https://media.tenor.com/63kkyhEv-68AAAAi/cat-kitty.gif" width="45"/>
+
+<img src="https://static.wixstatic.com/media/b6f029_7e0b3165d4d9458ca93f7d9be9cd8e95~mv2.gif" width="50%" align="right"/>
+
+
+I'm 22 years old, from SP/Brazil. A passionate fullstack developer. Currently studying, GTI, at FATEC Campinas.
+
+<br/>
 
 <div> 
   <a href="https://www.instagram.com/rochagues/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
